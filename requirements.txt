@@ -1,1 +1,11 @@
-
+cloudscraper
+bs4
+colorama
+fbtoolsbox
+pytesseract
+fake_useragent
+faker
+requests
+cython
+rich
+requests-toolbelt
